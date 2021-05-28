@@ -5,6 +5,7 @@
 ### Data Science
 
 [Berlin Airbnb prices using Python](/pdf/Airbnb_prices_in_berlin.pdf)
+<br> [Python Code](Berlin.ipynb)
 <img src="images/Berlin.PNG?raw=true"/>
 
 ---
