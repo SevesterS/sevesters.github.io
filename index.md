@@ -4,7 +4,7 @@
  
 
 [Berlin Airbnb prices using Python](/sample_page)
-<img src="images/berlin.png?raw=true"/>
+<img src="images/berlin.PNG/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
