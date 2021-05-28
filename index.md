@@ -1,8 +1,7 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
+ 
 
 [Berlin Airbnb prices using Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
