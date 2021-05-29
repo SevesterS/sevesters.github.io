@@ -13,23 +13,9 @@
 <img src="images/US_accident_report.PNG?raw=true"/>
 
 ---
-[Berlin Airbnb using SQL](pdf/Berlin_Airbnb.pdf)
+[Berlin Airbnb Dashboard using SQL](pdf/Berlin_Airbnb.pdf)
 <br> [SQL Code](SQL_Capstone_2.sql)
 <img src="images/Dashboard.PNG?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
