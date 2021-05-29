@@ -6,7 +6,7 @@
 
 [Berlin Airbnb prices using Python](/pdf/Airbnb_prices_in_berlin.pdf)
 <br> [Python Code](Berlin.ipynb)
-<a href="ber.md"> <img src="images/Berlin.PNG?raw=true"/> </a>
+<a href="https://github.com/SevesterS/sevesters.github.io/blob/master/berlin.md"> <img src="images/Berlin.PNG?raw=true"/> </a>
 
 ---
 [US Accident 2019 Report using PowerBI](/pdf/US_Accident_2019_Report.pdf)
