@@ -5,9 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>The writing samples in this portfolio shows the skills I have developed over the course of the program.
   <br>I have some experience as Associate Data Analyst in NTUC LearningHub. 
   <br>I have worked on several project using: Python, SQL, PowerBI, and Excel to generate reports and insights. 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/sevesters/">View My LinkedIn Profile</a> 
   <br>
- 
+  <br>
+  <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
