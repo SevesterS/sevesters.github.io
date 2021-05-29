@@ -7,11 +7,16 @@
 
 
 ## Table of Content
-**1. Viewing Data**
-**2. Preprocessing of Data**
-**3. Exploratary Data Analysis (EDA)
-**4. Modelling the Data**
-**5. Interprating Data**
+<br>
+1. Viewing Data
+<br>
+2. Preprocessing of Data
+<br>
+3. Exploratary Data Analysis (EDA)
+<br>
+4. Modelling the Data
+<br>
+5. Interprating Data
 
 
 
