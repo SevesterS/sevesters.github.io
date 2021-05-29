@@ -1,16 +1,57 @@
-## This can be your internal website page / project page
+## Airbnb prices in Berlin
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** As we all have known, Airbnb has seen an ernomous growth with the number of rental listed on website growing exponentially each year. With the fast pace growth rate, it is not surprising for people to want to put up their free room/flat for rental on Airbnb website to earn an additional income. However, it is difficult for potential host to price their room because they might not know the true value of their home and how in-demand their home might be. Also, for existing host, some of them might have overpriced their room causing it to be unable to be rented out. Therefore, this project might address some of these problem. This project served to provide an in-depth insight to how valuable a room/flat might be depending of certain feature of their room/flat such as size, the distance of the room from central of the city and etc.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Dataset:** In this project, I will be perfoming and in-depth analysis of Berlin. The dataset I will be using is from: https://www.kaggle.com/brittabettendorf/berlin-airbnb-data. Using only the listings_summary.csv
 
-```javascript
-if (isAwesome){
-  return true
-}
+
+## Table of Content
+**1. Viewing Data**
+**2. Preprocessing of Data**
+**3. Exploratary Data Analysis (EDA)
+**4. Modelling the Data**
+**5. Interprating Data**
+
+
+
+
+
+
+### 1. Viewing Data
+
+
+```python
+import pandas as pd
+import numpy as np
+from sklearn.metrics import mean_squared_error, r2_score
+import matplotlib.pyplot as plt
+plt.style.use('seaborn')
+import seaborn as sns
+import lightgbm as lgb
+import re
+import xgboost as xgb
+
+
+SEED = 42
 ```
+```python
+df_listing = pd.read_csv("C:/Users/Sevester Retseves/Desktop/SEVESTER/Data Analytics/Python/Capstone/Berlin/listings_summary.csv")
+```
+```pyton
+#rows and columns
+print("The dataset has {} rows and {} columns.".format(*df_listing.shape))
+#duplicate
+print("It contains {} duplicates.".format(df_listing.duplicated().sum()))
+```
+The dataset has 22552 rows and 96 columns.
+It contains 0 duplicates.
+```pyton
+df_listing.info()
+```
+
+
+
 
 ### 2. Assess assumptions on which statistical inference will be based
 
