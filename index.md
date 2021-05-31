@@ -34,6 +34,7 @@ This project is about Berlin Airbnb Dasboard using SQL
 Showing crime rate in each neighbourhood, customer sentiment review, relationship between distance from central of Berlin and price and etc.
 <br>
 Click on the 2 link below for the slide I have done for presentation and the SQL code.
+<br>
 [Berlin Airbnb Dashboard using SQL](pdf/Berlin_Airbnb.pdf)
 <br> [SQL Code](SQL_Capstone_2.sql)
 <img src="images/Dashboard.PNG?raw=true"/>
